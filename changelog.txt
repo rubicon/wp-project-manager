@@ -1,5 +1,35 @@
 == Changelog ==
 
+= v2.6.17 - Dec 26, 2024 =
+
+**Improved:** Enhanced sanitization of user input to strengthen data security.
+**Fix:** Resolved SQL security vulnerability to ensure system integrity..
+
+= v2.6.16 - Dec 10, 2024 =
+
+**Update:** WordPress 6.7.1 compatibility
+**Fix:** File download permission issue.
+**Fix:** WP 6.7.1 translation loaded early error.
+**Fix:** Subscriber level data exposure security issue.
+
+
+= v2.6.15 - Nov 18, 2024 =
+
+**Update:** Tested upto 6.7
+**Update:** Version bump & make stable frontend.
+
+= v2.6.14 - Nov 11, 2024 =
+
+**Fix:** Vulnerable security issue.
+**Fix:** XSS attack while uploading svg file.
+**Fix:** Sub task duplicating issue.
+
+= v2.6.13 - Mar 29, 2024 =
+
+**Fix:** New project's user creation issue.
+
+**Update:** PHP version support PHP-5.6 to PHP-7.2.
+
 = v2.6.12 - Mar 04, 2024 =
 
 **Update:** Version bump & make stable readme character.
